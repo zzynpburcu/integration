@@ -1,0 +1,50 @@
+[
+    {
+        "name": "ismail0234/trendyol-php-api",
+        "version": "v1.0.6",
+        "version_normalized": "1.0.6.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ismail0234/trendyol-php-api.git",
+            "reference": "008bdd581fd26dfa251af235cc3d320f84f60458"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ismail0234/trendyol-php-api/zipball/008bdd581fd26dfa251af235cc3d320f84f60458",
+            "reference": "008bdd581fd26dfa251af235cc3d320f84f60458",
+            "shasum": ""
+        },
+        "time": "2020-05-27T15:07:49+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "IS\\PazarYeri\\Trendyol\\": "IS/PazarYeri/Trendyol"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "İsmail Satilmiş",
+                "email": "ismaiil_0234@hotmail.com"
+            }
+        ],
+        "description": "Trendyol PHP API",
+        "keywords": [
+            "PHP API",
+            "eticaret",
+            "pazaryeri",
+            "trendyol",
+            "trendyol php api"
+        ],
+        "funding": [
+            {
+                "url": "https://www.patreon.com/botbenson",
+                "type": "patreon"
+            }
+        ]
+    }
+]
